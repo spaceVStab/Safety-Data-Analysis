@@ -1,0 +1,36 @@
+Model,test_roc_auc
+AdaBoost,0.876016156
+Gaussian Naive Bayes,0.821722577
+K Nearest Neighbors,0.698870652
+LogisticRegression,0.81009467
+Random Forest,0.896172052
+Support Vector Machine,0.854573986
+XGB,0.918759004
+AdaBoost,0.908989761
+Gaussian Naive Bayes,0.859860568
+K Nearest Neighbors,0.721676271
+LogisticRegression,0.812397098
+Random Forest,0.926219387
+Support Vector Machine,0.881341325
+XGB,0.948754888
+AdaBoost,0.891072726
+Gaussian Naive Bayes,0.849343335
+K Nearest Neighbors,0.733310839
+LogisticRegression,0.811448816
+Random Forest,0.910649398
+Support Vector Machine,0.840933866
+XGB,0.908689784
+AdaBoost,0.909109222
+Gaussian Naive Bayes,0.854829486
+K Nearest Neighbors,0.751299646
+LogisticRegression,0.807548347
+Random Forest,0.925335309
+Support Vector Machine,0.886670826
+XGB,0.931677584
+AdaBoost,0.918336712
+Gaussian Naive Bayes,0.89624922
+K Nearest Neighbors,0.694323144
+LogisticRegression,0.857558744
+Random Forest,0.940619152
+Support Vector Machine,0.90121387
+XGB,0.949859638
